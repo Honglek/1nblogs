@@ -1,19 +1,24 @@
-# nnews
+# 1N Blog
+website : https://1nblog.vercel.app/
 
-## Project setup
+## Admin https://1nblog.vercel.app/dashboard
+Email
 ```
-npm install
+admin@gmail.com
 ```
-
-### Compiles and hot-reloads for development
+Password
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+admin123
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Used
+- Vue.js
+- Tailwind CSS
+- Firebase
+
+### Other Libraries
+- daisyUI
+- moment.js
+- fontawesome
+- i18n
+  
