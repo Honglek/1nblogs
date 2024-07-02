@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumar+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@500&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-text {
+  color: transparent;
+  background: linear-gradient(
+    to right,
+    #1e5799,
+    #2ce0bf,
+    #76dd2c,
+    #dba62b,
+    #e02cbf,
+    #1e5799
+  );
+  background-size: 1000px 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
